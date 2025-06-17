@@ -5,4 +5,4 @@
 # Use with caution
 # Built with: Python, Sublime Text
 # Features: Scrapes data from web pages
-# Directions: C+P into Sublime Text or similar platform, Open PowerShell, type "python RockPaperScissors.py" to being playing
+# Directions: C+P into Sublime Text or similar platform, Open PowerShell, type "python web_scrapping.py" to being playing
